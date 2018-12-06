@@ -1,0 +1,1162 @@
+
+{
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  },
+
+  "getClassList":{
+    "code": 200,
+    "msg": "",
+    "data": {
+        "total": 2,
+        "totalPages": 1,
+        "pageNum": 1,
+        "pageSize": 2,
+        "data": [
+            {
+                "id": 1,
+                "productCode": "",
+                "productName": "公司注册",
+                "productDesc": null,
+                "state": {
+                    "key": 1,
+                    "value": "前/后台上架"
+                },
+                "category": {
+                    "id": 1,
+                    "categoryName": "公司注册",
+                    "categoryCode": "ZC-001",
+                    "parentId": 0,
+                    "path": "31811911012057088/5"
+                },
+                "categoryId": 0,
+                "creater": null,
+                "createTime": "2018-04-08 10:18:29",
+                "updater": null,
+                "updateTime": "2018-04-14 15:36:45",
+                "upDownTime": "2018-04-14 15:36:51",
+                "status": "前/后台上架",
+                "pageStart": 0,
+                "pageOffset": 0
+            },
+            {
+                "id": 33153733529436160,
+                "productCode": "33153733529436160",
+                "productName": "开户",
+                "productDesc": null,
+                "state": {
+                    "key": 1,
+                    "value": "前/后台上架"
+                },
+                "category": {
+                    "id": 33153733529436160,
+                    "categoryName": "公司注册",
+                    "categoryCode": "ZC-001",
+                    "parentId": 0,
+                    "path": "31811911012057088/5"
+                },
+                "categoryId": 0,
+                "creater": 11,
+                "createTime": "2018-04-02 11:42:06",
+                "updater": 11,
+                "updateTime": "2018-04-14 15:36:45",
+                "upDownTime": "2018-04-14 15:36:51",
+                "status": "前/后台上架",
+                "pageStart": 0,
+                "pageOffset": 0
+            }
+        ],
+        "size": 2
+    }
+  },
+  "gettableData":[
+    {
+      "id":"12",
+      "attributeName": "属性名称",
+      "attributeType": "属性类型",
+      "adaptation": "适配类目",
+      "inputMode": "已上线",
+      "required": "ccc",
+      "attributeVal": "sdfdfdfd"
+    },
+    {
+      "id":"22",
+      "attributeName": "属性名称",
+      "attributeType": "属性类型",
+      "adaptation": "适配类目",
+      "inputMode": "已上线",
+      "required": "ccc",
+      "attributeVal": "sdfdfdfd"
+    },
+    {
+      "id":"32",
+      "attributeName": "属性名称",
+      "attributeType": "属性类型",
+      "adaptation": "适配类目",
+      "inputMode": "已上线",
+      "required": "ccc",
+      "attributeVal": "sdfdfdfd"
+    },
+    {
+      "id":"42",
+      "attributeName": "属性名称",
+      "attributeType": "属性类型",
+      "adaptation": "适配类目",
+      "inputMode": "已上线",
+      "required": "ccc",
+      "attributeVal": "sdfdfdfd"
+    }
+  ],
+  "getClassList1":[
+    {
+      "id":"212441",
+      "className": "内资有限公司",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "id":"42334",
+      "className": "内资有限公司",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "id":"54363",
+      "className": "内资有限公司",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "id":"87654",
+      "className": "内资有限公司",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    }
+  ],
+  "getClassList2":[
+    {
+      "className": "内资有限公司11111111111111",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司1111111111111",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司11111111111",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司11111111111",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    }
+  ],
+  "getClassList3":[
+    {
+      "className": "内资有限公司222222",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司222222",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司222222",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    },
+    {
+      "className": "内资有限公司22222",
+      "classCode": "43660",
+      "parentClass": "注册公司",
+      "frontPC": "注册公司",
+      "frontH5": "2017-12-注册公司"
+    }
+  ],
+  "getAttrData":{
+    "code": 200,
+    "msg": "",
+    "data": {
+      "total": 5,
+      "totalPages": 1,
+      "pageNum": 1,
+      "pageSize": 10,
+      "data": [{
+        "ordsc": 1,
+        "valueName": "1-4人，5-7人",
+        "attributeType": "类别属性",
+        "inputMode": "多选",
+        "attributeName": "公司性质",
+        "id": 33571322525122560,
+        "isNecessary": "是",
+        "categoryName": "公司注册1，公司注册2"
+      },
+      {
+        "ordsc": 2,
+        "valueName": "银行地址，供应商地址",
+        "attributeType": "类别属性",
+        "inputMode": "单选",
+        "attributeName": "地址表述",
+        "id": 33619074088960000,
+        "isNecessary": "否",
+        "categoryName": "公司注册1，哈哈哈哈啊哈，注册地址2323"
+      },
+      {
+        "ordsc": 2,
+        "valueName": "",
+        "attributeType": "类别属性",
+        "inputMode": "长文本",
+        "attributeName": "其他公司",
+        "id": 33619474988924928,
+        "isNecessary": "否",
+        "categoryName": "公司注册1，哈哈哈哈啊哈"
+      },
+      {
+        "ordsc": 2,
+        "valueName": "",
+        "attributeType": "类别属性",
+        "inputMode": "长文本",
+        "attributeName": "所属国税",
+        "id": 33853445203034112,
+        "isNecessary": "否",
+        "categoryName": "哈哈哈哈啊哈，公司注册1"
+      },
+      {
+        "ordsc": 2,
+        "valueName": "",
+        "attributeType": "类别属性",
+        "inputMode": "长文本",
+        "attributeName": "配合核查",
+        "id": 33854396144025600,
+        "isNecessary": "否",
+        "categoryName": "哈哈哈哈啊哈，公司注册1"
+      }],
+      "size": 5
+    }
+  },
+  "productDecail":{
+    "data": {
+          "类目1": [
+            {
+              "id": 1,
+              "name": "二级类目1_1"
+            },
+            {
+              "id": 2,
+              "name": "二级类目1_2"
+            }
+          ],
+          "类目2": [
+            {
+              "id": 3,
+              "name": "二级类目2_1"
+            },
+            {
+              "id": 4,
+              "name": "二级类目2_2"
+            }
+          ]
+        },
+    "oneName": "类目1",
+    "twoId": 2,
+    "twoName": "二级类目1_2"
+  },
+  "addCommodityAttr":{
+    "code": 0,
+    "msg": "成功",
+    "data": {
+      "pcName": "name2/name3，name4/name5",
+      "attributes": [{
+        "type": 5,
+        "data": {
+          "value": {
+            "北京市": [{
+              "code": "110100",
+              "name": "市辖区"
+            }, {
+              "code": "110101",
+              "name": "东城区"
+            }, {
+              "code": "110102",
+              "name": "西城区"
+            }, {
+              "code": "110105",
+              "name": "朝阳区"
+            }, {
+              "code": "110106",
+              "name": "丰台区"
+            }, {
+              "code": "110107",
+              "name": "石景山区"
+            }, {
+              "code": "110108",
+              "name": "海淀区"
+            }, {
+              "code": "110109",
+              "name": "门头沟区"
+            }, {
+              "code": "110111",
+              "name": "房山区"
+            }, {
+              "code": "110112",
+              "name": "通州区"
+            }, {
+              "code": "110113",
+              "name": "顺义区"
+            }, {
+              "code": "110114",
+              "name": "昌平区"
+            }, {
+              "code": "110115",
+              "name": "大兴区"
+            }, {
+              "code": "110116",
+              "name": "怀柔区"
+            }, {
+              "code": "110117",
+              "name": "平谷区"
+            }, {
+              "code": "110118",
+              "name": "密云区"
+            }, {
+              "code": "110119",
+              "name": "延庆区"
+            }],
+            "天津市": [{
+              "code": "120100",
+              "name": "市辖区"
+            }, {
+              "code": "120101",
+              "name": "和平区"
+            }, {
+              "code": "120102",
+              "name": "河东区"
+            }, {
+              "code": "120103",
+              "name": "河西区"
+            }, {
+              "code": "120104",
+              "name": "南开区"
+            }, {
+              "code": "120105",
+              "name": "河北区"
+            }, {
+              "code": "120106",
+              "name": "红桥区"
+            }, {
+              "code": "120110",
+              "name": "东丽区"
+            }, {
+              "code": "120111",
+              "name": "西青区"
+            }, {
+              "code": "120112",
+              "name": "津南区"
+            }, {
+              "code": "120113",
+              "name": "北辰区"
+            }, {
+              "code": "120114",
+              "name": "武清区"
+            }, {
+              "code": "120115",
+              "name": "宝坻区"
+            }, {
+              "code": "120116",
+              "name": "滨海新区"
+            }, {
+              "code": "120117",
+              "name": "宁河区"
+            }, {
+              "code": "120118",
+              "name": "静海区"
+            }, {
+              "code": "120119",
+              "name": "蓟州区"
+            }],
+            "上海市": [{
+              "code": "310100",
+              "name": "市辖区"
+            }, {
+              "code": "310101",
+              "name": "黄浦区"
+            }, {
+              "code": "310104",
+              "name": "徐汇区"
+            }, {
+              "code": "310105",
+              "name": "长宁区"
+            }, {
+              "code": "310106",
+              "name": "静安区"
+            }, {
+              "code": "310107",
+              "name": "普陀区"
+            }, {
+              "code": "310109",
+              "name": "虹口区"
+            }, {
+              "code": "310110",
+              "name": "杨浦区"
+            }, {
+              "code": "310112",
+              "name": "闵行区"
+            }, {
+              "code": "310113",
+              "name": "宝山区"
+            }, {
+              "code": "310114",
+              "name": "嘉定区"
+            }, {
+              "code": "310115",
+              "name": "浦东新区"
+            }, {
+              "code": "310116",
+              "name": "金山区"
+            }, {
+              "code": "310117",
+              "name": "松江区"
+            }, {
+              "code": "310118",
+              "name": "青浦区"
+            }, {
+              "code": "310120",
+              "name": "奉贤区"
+            }, {
+              "code": "310151",
+              "name": "崇明区"
+            }],
+            "广州市": [{
+              "code": "440101",
+              "name": "市辖区"
+            }, {
+              "code": "440103",
+              "name": "荔湾区"
+            }, {
+              "code": "440104",
+              "name": "越秀区"
+            }, {
+              "code": "440105",
+              "name": "海珠区"
+            }, {
+              "code": "440106",
+              "name": "天河区"
+            }, {
+              "code": "440111",
+              "name": "白云区"
+            }, {
+              "code": "440112",
+              "name": "黄埔区"
+            }, {
+              "code": "440113",
+              "name": "番禺区"
+            }, {
+              "code": "440114",
+              "name": "花都区"
+            }, {
+              "code": "440115",
+              "name": "南沙区"
+            }, {
+              "code": "440117",
+              "name": "从化区"
+            }, {
+              "code": "440118",
+              "name": "增城区"
+            }],
+            "深圳市": [{
+              "code": "440301",
+              "name": "市辖区"
+            }, {
+              "code": "440303",
+              "name": "罗湖区"
+            }, {
+              "code": "440304",
+              "name": "福田区"
+            }, {
+              "code": "440305",
+              "name": "南山区"
+            }, {
+              "code": "440306",
+              "name": "宝安区"
+            }, {
+              "code": "440307",
+              "name": "龙岗区"
+            }, {
+              "code": "440308",
+              "name": "盐田区"
+            }]
+          },
+          "oneCityName": "",
+          "twoCityName": ""
+        },
+        "name": "区域属性",
+        "id": "36772255589466112",
+        "isNecessary": 1
+      }, {
+        "type": 1,
+        "data": {
+          "value": ""
+        },
+        "name": "文本属性",
+        "id": "36770284753125376",
+        "isNecessary": 1
+      }, {
+        "type": 2,
+        "data": {
+          "value": ""
+        },
+        "name": "长文本属性",
+        "id": "36770504438185984",
+        "isNecessary": 1
+      }, {
+        "type": 3,
+        "data": [{
+          "checked": false,
+          "name": "是",
+          "id": "36770769174265856"
+        }, {
+          "checked": false,
+          "name": "否",
+          "id": "36770769174265857"
+        }],
+        "name": "单选属性",
+        "id": "36770769115545600",
+        "isNecessary": 1
+      }, {
+        "type": 3,
+        "data": [{
+          "checked": false,
+          "name": "是",
+          "id": "36771215649538048"
+        }, {
+          "checked": false,
+          "name": "否",
+          "id": "36771215649538049"
+        }],
+        "name": "单选属性2",
+        "id": "36771215569846272",
+        "isNecessary": 1
+      }, {
+        "type": 4,
+        "data": [{
+          "checked": false,
+          "name": "1-3人",
+          "id": "36771584551157760"
+        }, {
+          "checked": false,
+          "name": "4-7人",
+          "id": "36771584551157761"
+        }, {
+          "checked": false,
+          "name": "8人以上",
+          "id": "36771584551157762"
+        }],
+        "name": "多选属性",
+        "id": "36771584475660288",
+        "isNecessary": 1
+      }, {
+        "type": 4,
+        "data": [{
+          "checked": false,
+          "name": "股份公司",
+          "id": "36772020561641472"
+        }, {
+          "checked": false,
+          "name": "有限责任公司",
+          "id": "36772020561641473"
+        }, {
+          "checked": false,
+          "name": "内资公司",
+          "id": "36772020561641474"
+        }, {
+          "checked": false,
+          "name": "上市公司",
+          "id": "36772020561641475"
+        }],
+        "name": "多选属性2",
+        "id": "36772020477755392",
+        "isNecessary": 1
+      }],
+      "h5Name": "name7/name8"
+    }
+  },
+  "productDetailData":{
+    "code": 200,
+    "msg": " 返回原因",
+    "product": {
+      "id": "商品id",
+      "productName": "商品名称",
+      "productDesc": "商品描述",
+      "productSups": [{
+        "supplierName": "商品供应商名称"
+      }],
+      "productBackCaty": {
+        "categoryName": "后台类目名称",
+        "parent": {
+          "categoryName": "后台父类目名称"
+        },
+        "beCategories": [{
+          "becategoryName": "前台类目名称",
+          "parent": {
+            "becategoryName": "前台父类目名 称"
+          }
+        }]
+      },
+      "state": {
+        "key": "1",
+        "value": "前台上架"
+      },
+      "upDownTime": "上架时间",
+      "createTime": "创建时间",
+      "creater": " 创建人",
+      "attributeSpecs": [{
+        "attributeName": "属性名",
+        "attributeValueList": [{
+          "name": "属性值名称"
+        }]
+      }],
+      "attributeCates": [
+        {
+            "attributeValue": "北京市  东城区",
+            "attributeName": "区域属性",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": "这里存储的是该商品某个属性的文本值1",
+            "attributeName": "文本属性",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": null,
+            "attributeName": "长文本属性",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": [
+                "是",
+                "否"
+            ],
+            "checkedValue": [
+                "是"
+            ],
+            "attributeName": "单选属性",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": [
+                "是",
+                "否"
+            ],
+            "checkedValue": [],
+            "attributeName": "单选属性2",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": [
+                "1-3人",
+                "4-7人",
+                "8人以上"
+            ],
+            "checkedValue": [
+                "4-7人",
+                "1-3人"
+            ],
+            "attributeName": "多选属性",
+            "isNecessary": 1
+        },
+        {
+            "attributeValue": [
+                "股份公司",
+                "有限责任公司",
+                "内资公司",
+                "上市公司"
+            ],
+            "checkedValue": [
+                "股份公司",
+                "内资公司",
+                "有限责任公司"
+            ],
+            "attributeName": "多选属性2",
+            "isNecessary": 1
+        }
+    ]
+    }
+  },
+  "priceSetData":{
+    "code": 200,
+    "msg": "",
+    "data": {
+      "skuPriceList": [{
+        "skuName": "1-3人|有限公司",
+        "areaCode": "110105",
+        "productid": 1,
+        "cityName": "北京市",
+        "cityCode": "110000",
+        "sellPrice": "900",
+        "stock":0,
+        "id": 12345,
+        "skuid": 111111
+      }],
+      "regionList": [{
+        "cityName": "北京市",
+        "cityCode": "110000",
+        "child": [{
+          "cityName": "市辖区",
+          "cityCode": "110100"
+        }, {
+          "cityName": "东城区",
+          "cityCode": "110101"
+        }, {
+          "cityName": "西城区",
+          "cityCode": "110102"
+        }]
+      }, {
+        "cityName": "天津市",
+        "cityCode": "120000",
+        "child": [{
+          "cityName": "市辖区",
+          "cityCode": "120100"
+        }, {
+          "cityName": "和平区",
+          "cityCode": "120101"
+        }]
+      }, {
+        "cityName": "上海市",
+        "cityCode": "310000",
+        "child": [{
+          "cityName": "市辖区",
+          "cityCode": "310100"
+        }, {
+          "cityName": "黄浦区",
+          "cityCode": "310101"
+        }]
+      }, {
+        "cityName": "广州市",
+        "cityCode": "440100",
+        "child": [{
+          "cityName": "市辖区",
+          "cityCode": "440101"
+        }, {
+          "cityName": "荔湾区",
+          "cityCode": "440103"
+        }]
+      }, {
+        "cityName": "深圳市",
+        "cityCode": "440300",
+        "child": [{
+          "cityName": "市辖区",
+          "cityCode": "440301"
+        }, {
+          "cityName": "罗湖区",
+          "cityCode": "440303"
+        }]
+      }],
+      "pcsList": [{
+        "data": [{
+          "valueName": "有限责任公司",
+          "id": 3
+        }, {
+          "valueName": "合伙企业",
+          "id": 4
+        }],
+        "attributeName": "公司职务:",
+        "id": 2
+      }, {
+        "data": [{
+          "valueName": "1-3人",
+          "id": 1
+        }, {
+          "valueName": "4-7人",
+          "id": 2
+        }],
+        "attributeName": "股东数量1:",
+        "id": 1
+      }]
+    }
+  },
+  "createSKU":{
+    "code": 200,
+    "msg": "",
+    "data": [{
+      "skuName": "有限公司,1-3人",
+      "areaCode": "110105",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384910065675,
+      "stock": 0,
+      "skuid": 433320384905871360
+    }, {
+      "skuName": "有限公司,1-3人",
+      "areaCode": "110108",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259971,
+      "stock": 0,
+      "skuid": 433320384905871360
+    }, {
+      "skuName": "有限公司,4-8人",
+      "areaCode": "110105",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259968,
+      "stock": 0,
+      "skuid": 433320384910065666
+    }, {
+      "skuName": "有限公司,4-8人",
+      "areaCode": "110108",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259972,
+      "stock": 0,
+      "skuid": 433320384910065666
+    }, {
+      "skuName": "合伙企业,1-3人",
+      "areaCode": "110105",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259969,
+      "stock": 0,
+      "skuid": 433320384910065669
+    }, {
+      "skuName": "合伙企业,1-3人",
+      "areaCode": "110108",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259973,
+      "stock": 0,
+      "skuid": 433320384910065669
+    }, {
+      "skuName": "合伙企业,4-8人",
+      "areaCode": "110105",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259970,
+      "stock": 0,
+      "skuid": 433320384910065672
+    }, {
+      "skuName": "合伙企业,4-8人",
+      "areaCode": "110108",
+      "productid": 111,
+      "cityName": "北京市",
+      "cityCode": "110000",
+      "sellPrice": 0,
+      "id": 433320384914259974,
+      "stock": 0,
+      "skuid": 433320384910065672
+    }]
+  },
+  "editAttr":{
+    "code": 200,
+    "msg": "成功",
+    "data": {
+      "ordsc": "7",
+      "attributeR": [
+        {
+          "categoryName": "公司注册",
+          "categoryId": "5"
+        },
+        {
+          "categoryName": "公司注册1212",
+          "categoryId": "1"
+        }
+      ],
+      "inputMode": "4",
+      "categoryTreeList": [
+        {
+          "id": "222",
+          "categoryName": "公司注册212",
+          "categoryCode": null,
+          "parentCateName": null,
+          "frontCatePcPath": null,
+          "frontCateH5Path": null,
+          "path": null,
+          "categoryType": 0,
+          "ftId": "0",
+          "ftCateName": null,
+          "childCateList": [
+            {
+              "id": "0321",
+              "categoryName": "null",
+              "categoryCode": null,
+              "parentCateName": null,
+              "frontCatePcPath": null,
+              "frontCateH5Path": null,
+              "path": null,
+              "categoryType": 0,
+              "ftId": "0",
+              "ftCateName": null,
+              "childCateList": null
+            }
+          ]
+        },
+        {
+          "id": "03333",
+          "categoryName": "中荣",
+          "categoryCode": null,
+          "parentCateName": null,
+          "frontCatePcPath": null,
+          "frontCateH5Path": null,
+          "path": null,
+          "categoryType": 0,
+          "ftId": "0",
+          "ftCateName": null,
+          "childCateList": [
+            {
+              "id": "021214",
+              "categoryName": "后台父类目名称",
+              "categoryCode": null,
+              "parentCateName": null,
+              "frontCatePcPath": null,
+              "frontCateH5Path": null,
+              "path": null,
+              "categoryType": 0,
+              "ftId": "0",
+              "ftCateName": null,
+              "childCateList": null
+            },
+            {
+              "id": "31811911012057088",
+              "categoryName": "企业秘书服务666",
+              "categoryCode": "QY_667",
+              "parentId": "0",
+              "path": "/",
+              "ordsc": 0,
+              "isDelete": 0,
+              "creater": "0",
+              "createTime": null,
+              "updater": "0",
+              "updateTime": null
+            }
+          ]
+        },
+        {
+          "id": "032",
+          "categoryName": "父元素",
+          "categoryCode": null,
+          "parentCateName": null,
+          "frontCatePcPath": null,
+          "frontCateH5Path": null,
+          "path": null,
+          "categoryType": 0,
+          "ftId": "0",
+          "ftCateName": null,
+          "childCateList": [
+            {
+              "id": "021",
+              "categoryName": "子集11",
+              "categoryCode": null,
+              "parentCateName": null,
+              "frontCatePcPath": null,
+              "frontCateH5Path": null,
+              "path": null,
+              "categoryType": 0,
+              "ftId": "0",
+              "ftCateName": null,
+              "childCateList": null
+            }
+          ]
+        }
+      ],
+      "attributeName": "多选属性2",
+      "id": "36772020477755392",
+      "isNecessary": "1",
+      "attributeValue": [
+        {
+          "ordsc": null,
+          "name": "股份公司",
+          "id": "36772020561641472"
+        },
+        {
+          "ordsc": null,
+          "name": "有限责任公司",
+          "id": "36772020561641473"
+        },
+        {
+          "ordsc": null,
+          "name": "内资公司",
+          "id": "36772020561641474"
+        },
+        {
+          "ordsc": null,
+          "name": "上市公司",
+          "id": "36772020561641475"
+        }
+      ]
+    }
+  },
+  "material":{
+    "code": 200,
+    "msg": "成功",
+    "data": {
+        "needMaterialList": [
+            {
+                "name": "原件",
+                "id": "1"
+            },
+            {
+                "name": "复印件",
+                "id": "2"
+            },
+            {
+                "name": "原件及复印件",
+                "id": "3"
+            },
+            {
+                "name": "电子档",
+                "id": "4"
+            },
+            {
+                "name": "其他",
+                "id": "5"
+            }
+        ],
+        "needMaterial": [
+            {
+                "number": 2,
+                "applyArea": [
+                    {
+                        "cityNameIntro": "",
+                        "cityName": "北京",
+                        "areaList": [
+                            "朝阳区",
+                            "海淀区"
+                        ]
+                    },
+                    {
+                        "cityNameIntro": "",
+                        "cityName": "深圳",
+                        "areaList": [
+                            "福田区",
+                            "南山区"
+                        ]
+                    },
+                    {
+                        "cityNameIntro": "全广东省,广州",
+                        "cityName": "广东省,广州",
+                        "areaList": [
+                            "花都区",
+                            "南沙区",
+                            "从化区",
+                            "增城区"
+                        ]
+                    },
+                    {
+                        "cityNameIntro": "",
+                        "cityName": "天津市,天津",
+                        "areaList": [
+                            "天津市,和平区"
+                        ]
+                    }
+                ],
+                "description": "原件描述",
+                "id": "1",
+                "materialId": "1"
+            },
+            {
+                "number": 3,
+                "applyArea": [
+                    {
+                        "cityNameIntro": "",
+                        "cityName": "北京",
+                        "areaList": [
+                            "朝阳区",
+                            "海淀区",
+                            "东城区"
+                        ]
+                    },
+                    {
+                        "cityNameIntro": "",
+                        "cityName": "深圳",
+                        "areaList": [
+                            "福田区"
+                        ]
+                    }
+                ],
+                "description": "复印件描述",
+                "id": "2",
+                "materialId": "2"
+            }
+        ]
+    }
+}
+}
